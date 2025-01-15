@@ -1,0 +1,21 @@
+p {
+    color: black;
+    background-color: rgb(255, 151, 151);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#cool {
+    font-size: 24px;
+}
+
+#green {
+    color:black;
+    background-color: rgb(113, 221, 113);
+    font-size: 24px;
+    font-weight: bold;
+}
