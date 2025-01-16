@@ -1,21 +1,20 @@
-p {
+.odd {
     color: black;
-    background-color: rgb(255, 151, 151);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 163, 163);
+    font-family: Verdana, DejaVuSans, sans-serif;
 }
 
-#blue {
+.adjust-size {
+    font-size: 24px;
+}
+
+#second {
     color: blue;
     font-size: 36px;
 }
 
-#cool {
-    font-size: 24px;
-}
-
-#green {
-    color:black;
-    background-color: rgb(113, 221, 113);
-    font-size: 24px;
+#fourth {
+    color: black;
+    background-color: rgb(150, 255, 150);
     font-weight: bold;
 }
